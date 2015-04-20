@@ -10,6 +10,7 @@ namespace MyCalc4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Calculator");
         }
     }
 }
